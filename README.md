@@ -6,4 +6,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Conner Rice
